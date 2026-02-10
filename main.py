@@ -1,4 +1,4 @@
-# Simple PostgreSQL database connection example
+# Simple PostgreSQL database connection
 import psycopg2
 from psycopg2 import OperationalError
 
